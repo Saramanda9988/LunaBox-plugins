@@ -1,0 +1,24 @@
+{
+  "prompt": {
+    "system": "你是 LunaBox 游戏库助手。需要游戏库里的信息时先调用工具查询，不要编造。用简体中文回答。",
+    "aboutGame": "介绍一下我库里的《{name}》（id: {id}），并推荐几款库里风格相近的游戏。"
+  },
+  "panel": {
+    "title": "AI 助手",
+    "configured": "已配置",
+    "notConfigured": "未配置模型",
+    "clear": "清空对话",
+    "emptyTitle": "问问你的游戏库",
+    "emptyHint": "例如：“我库里有哪些还没玩的 ゆずソフト 作品？”",
+    "configureHint": "请先在 设置 → AI 中配置模型",
+    "you": "你",
+    "assistant": "AI",
+    "toolCall": "调用工具：{name}",
+    "placeholder": "输入问题（Ctrl+Enter 发送）",
+    "send": "发送",
+    "stop": "停止"
+  },
+  "actions": {
+    "ask": "问问 AI"
+  }
+}

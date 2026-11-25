@@ -1,0 +1,19 @@
+{
+  "id": "game-detail",
+  "version": "0.1.0",
+  "apiVersion": 1,
+  "engines": {
+    "lunabox": ">=2.1.0 <3"
+  },
+  "main": "main.js",
+  "name": {
+    "zh-CN": "游戏笔记",
+    "en-US": "Game Notes"
+  },
+  "description": {
+    "zh-CN": "扩展游戏详情页：新增标签页与右侧信息栏、游戏右键菜单，数据存入插件独立的 SQLite",
+    "en-US": "Extends the game detail page with a tab, a side panel and a game action, stored in the plugin's own SQLite database"
+  },
+  "icon": "notebook-outline",
+  "license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+  "page": {
+    "title": "My Plugin"
+  },
+  "settings": {
+    "title": "Basic settings",
+    "greeting": "Page title",
+    "greetingDefault": "Hello, LunaBox!",
+    "step": "Step"
+  },
+  "home": {
+    "description": "This is a sidebar page. Rebuild after editing src/index.tsx and the plugin reloads automatically.",
+    "count": "Count: {count}",
+    "toast": "Show a toast",
+    "toastMessage": "The count is {count}"
+  }
+}

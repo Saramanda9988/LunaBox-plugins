@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "title": "Colors",
+    "accent": "Accent color",
+    "radius": "Corner radius (px)",
+    "radiusHint": "Applies to all buttons, inputs, menus and popovers"
+  },
+  "accent": {
+    "teal": "Teal",
+    "violet": "Violet",
+    "rose": "Rose"
+  }
+}

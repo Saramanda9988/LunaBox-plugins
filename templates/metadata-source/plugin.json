@@ -1,0 +1,19 @@
+{
+  "id": "metadata-source",
+  "version": "0.1.0",
+  "apiVersion": 1,
+  "engines": {
+    "lunabox": ">=2.1.0 <3"
+  },
+  "main": "main.js",
+  "name": {
+    "zh-CN": "自定义元数据源",
+    "en-US": "Custom Metadata Source"
+  },
+  "description": {
+    "zh-CN": "元数据源插件：注册新的刮削来源（搜索、按 ID 抓取、ID 规范化与限流），示例对接 VNDB 公开 API",
+    "en-US": "Metadata source plugin: registers a new scraping source (search, fetch by id, id normalization and rate limiting), using the public VNDB API as an example"
+  },
+  "icon": "database-search-outline",
+  "license": "MIT"
+}

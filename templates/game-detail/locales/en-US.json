@@ -1,0 +1,26 @@
+{
+  "notes": {
+    "title": "Notes",
+    "placeholder": "Story notes, routes, save locations… (Ctrl+Enter to save)",
+    "save": "Save",
+    "saved": "Note saved",
+    "saveFailed": "Failed to save; see the log for details",
+    "updatedAt": "Last saved: {time}",
+    "never": "No notes yet"
+  },
+  "aside": {
+    "title": "Game info",
+    "company": "Developer",
+    "releaseDate": "Release date",
+    "rating": "Rating",
+    "lastPlayed": "Last played",
+    "empty": "No information"
+  },
+  "actions": {
+    "clear": "Clear notes",
+    "nothing": "This game has no notes",
+    "confirmTitle": "Clear notes?",
+    "confirmMessage": "The notes for \"{name}\" will be deleted. This can't be undone.",
+    "cleared": "Notes cleared"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "basic",
+  "version": "0.1.0",
+  "apiVersion": 1,
+  "engines": {
+    "lunabox": ">=2.1.0 <3"
+  },
+  "main": "main.js",
+  "name": {
+    "zh-CN": "基础插件",
+    "en-US": "Basic Plugin"
+  },
+  "description": {
+    "zh-CN": "最小 TSX 插件：侧边栏页面、设置表单、多语言与本地存储",
+    "en-US": "Minimal TSX plugin: sidebar page, settings form, i18n and local storage"
+  },
+  "icon": "puzzle-outline",
+  "license": "MIT"
+}

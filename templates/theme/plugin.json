@@ -1,0 +1,19 @@
+{
+  "id": "theme",
+  "version": "0.1.0",
+  "apiVersion": 1,
+  "engines": {
+    "lunabox": ">=2.1.0 <3"
+  },
+  "main": "main.js",
+  "name": {
+    "zh-CN": "主题配色",
+    "en-US": "Theme Colors"
+  },
+  "description": {
+    "zh-CN": "主题插件：覆盖宿主色板的强调色与全局圆角，设置变更后即时生效",
+    "en-US": "Theme plugin: overrides the host accent palette and global corner radius, applied live when settings change"
+  },
+  "icon": "palette-outline",
+  "license": "MIT"
+}

@@ -1,0 +1,24 @@
+{
+  "prompt": {
+    "system": "You are the LunaBox game library assistant. Use the tools to look up anything about the user's library instead of guessing. Answer in English.",
+    "aboutGame": "Tell me about \"{name}\" (id: {id}) from my library, and recommend a few similar games I already own."
+  },
+  "panel": {
+    "title": "AI Assistant",
+    "configured": "Configured",
+    "notConfigured": "No model configured",
+    "clear": "Clear chat",
+    "emptyTitle": "Ask about your library",
+    "emptyHint": "For example: \"Which unplayed games from Yuzusoft do I own?\"",
+    "configureHint": "Configure a model in Settings → AI first",
+    "you": "You",
+    "assistant": "AI",
+    "toolCall": "Tool call: {name}",
+    "placeholder": "Ask something (Ctrl+Enter to send)",
+    "send": "Send",
+    "stop": "Stop"
+  },
+  "actions": {
+    "ask": "Ask AI"
+  }
+}

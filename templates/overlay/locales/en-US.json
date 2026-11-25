@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "Overlay",
+    "autoOpen": "Open when a game starts",
+    "autoClose": "Close when the game ends"
+  },
+  "window": {
+    "title": "Play timer",
+    "idle": "Not playing",
+    "close": "Close"
+  },
+  "toast": {
+    "ended": "Played \"{name}\" for {time}"
+  },
+  "topbar": {
+    "toggle": "Play timer overlay"
+  }
+}

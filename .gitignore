@@ -1,0 +1,5 @@
+node_modules/
+*.zip
+.DS_Store
+# 模板只放源码，main.js 由 lunabox-plugin build 生成
+templates/*/main.js

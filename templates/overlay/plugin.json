@@ -1,0 +1,19 @@
+{
+  "id": "overlay",
+  "version": "0.1.0",
+  "apiVersion": 1,
+  "engines": {
+    "lunabox": ">=2.1.0 <3"
+  },
+  "main": "main.js",
+  "name": {
+    "zh-CN": "游玩计时悬浮窗",
+    "en-US": "Play Timer Overlay"
+  },
+  "description": {
+    "zh-CN": "悬浮窗插件：游戏启动时打开置顶透明小窗显示游玩时长，结束时关闭；演示事件钩子、独立窗口与顶栏按钮",
+    "en-US": "Overlay plugin: opens an always-on-top transparent window with the play time when a game starts and closes it when it ends; shows event hooks, plugin windows and a top bar button"
+  },
+  "icon": "timer-outline",
+  "license": "MIT"
+}

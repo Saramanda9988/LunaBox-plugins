@@ -1,0 +1,17 @@
+{
+  "page": {
+    "title": "我的插件"
+  },
+  "settings": {
+    "title": "基础设置",
+    "greeting": "页面标题",
+    "greetingDefault": "你好，LunaBox！",
+    "step": "每次增加"
+  },
+  "home": {
+    "description": "这是一个侧边栏页面。修改 src/index.tsx 后重新构建，插件会自动重载。",
+    "count": "计数：{count}",
+    "toast": "弹出提示",
+    "toastMessage": "当前计数是 {count}"
+  }
+}

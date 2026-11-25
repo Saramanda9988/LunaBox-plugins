@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "title": "数据源设置",
+    "baseUrl": "API 地址",
+    "token": "API Token（可选）",
+    "tokenHint": "只在访问需要登录的接口时填写"
+  }
+}

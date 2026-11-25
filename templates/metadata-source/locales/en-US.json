@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "title": "Source settings",
+    "baseUrl": "API URL",
+    "token": "API token (optional)",
+    "tokenHint": "Only needed for endpoints that require login"
+  }
+}

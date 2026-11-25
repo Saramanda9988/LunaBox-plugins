@@ -1,0 +1,16 @@
+{
+  "name": "basic",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "lunabox-plugin build",
+    "release": "lunabox-plugin build --minify && lunabox-plugin pack",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "lunabox": "^1.0.0",
+    "typescript": "^5.7.0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "notes": {
+    "title": "笔记",
+    "placeholder": "记录剧情、路线、存档位置……（Ctrl+Enter 保存）",
+    "save": "保存",
+    "saved": "笔记已保存",
+    "saveFailed": "保存失败，详情见日志",
+    "updatedAt": "上次保存：{time}",
+    "never": "还没有笔记"
+  },
+  "aside": {
+    "title": "游戏信息",
+    "company": "开发商",
+    "releaseDate": "发售日期",
+    "rating": "评分",
+    "lastPlayed": "最近游玩",
+    "empty": "暂无信息"
+  },
+  "actions": {
+    "clear": "清空笔记",
+    "nothing": "这款游戏还没有笔记",
+    "confirmTitle": "清空笔记？",
+    "confirmMessage": "《{name}》的笔记会被删除，无法恢复。",
+    "cleared": "笔记已清空"
+  }
+}

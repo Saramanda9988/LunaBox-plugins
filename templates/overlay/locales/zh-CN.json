@@ -1,0 +1,18 @@
+{
+  "settings": {
+    "title": "悬浮窗",
+    "autoOpen": "游戏启动时自动打开",
+    "autoClose": "游戏结束时自动关闭"
+  },
+  "window": {
+    "title": "游玩计时",
+    "idle": "未在游戏",
+    "close": "关闭"
+  },
+  "toast": {
+    "ended": "《{name}》本次游玩 {time}"
+  },
+  "topbar": {
+    "toggle": "游玩计时悬浮窗"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "title": "配色",
+    "accent": "强调色",
+    "radius": "圆角（像素）",
+    "radiusHint": "作用于所有按钮、输入框、菜单与弹出面板"
+  },
+  "accent": {
+    "teal": "青绿",
+    "violet": "紫罗兰",
+    "rose": "玫瑰红"
+  }
+}

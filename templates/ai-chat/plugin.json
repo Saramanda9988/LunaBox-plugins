@@ -1,0 +1,19 @@
+{
+  "id": "ai-chat",
+  "version": "0.1.0",
+  "apiVersion": 1,
+  "engines": {
+    "lunabox": ">=2.1.0 <3"
+  },
+  "main": "main.js",
+  "name": {
+    "zh-CN": "AI 游戏库助手",
+    "en-US": "AI Library Assistant"
+  },
+  "description": {
+    "zh-CN": "AI 插件：右侧抽屉里的流式对话，用宿主设置页配置的模型，带查询游戏库的工具调用",
+    "en-US": "AI plugin: streaming chat in the side drawer using the model configured in LunaBox settings, with tool calls that query the game library"
+  },
+  "icon": "robot-happy-outline",
+  "license": "MIT"
+}
